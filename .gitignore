@@ -6,3 +6,5 @@ dist
 npm-debug.log*
 yarn.lock
 .vscode/launch.json
+temp_auto_push.bat
+temp_interactive_push.bat
